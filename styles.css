@@ -14,7 +14,7 @@ body {
     font-family: 'merriweather', sans-serif;
     color: rgb(255, 255, 255);
     text-align: center;
-    background-image: url(/u200bodumodublvck.webp);
+    background-image: url('u200bodumodublvck.webp');
     background-size: cover;
 }
 
